@@ -1,0 +1,14 @@
+[
+  {
+    "scenario_name": "Job Interview",
+    "category": "business",
+    "difficulty": 3,
+    "dialogue": [
+      {
+        "speaker": "interviewer",
+        "japanese": "どうして我が社で働きたいと思いましたか？",
+        "english": "Why do you want to work for our company?"
+      }
+    ]
+  }
+]
